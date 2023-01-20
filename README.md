@@ -6,7 +6,7 @@ checkout the backend code of the project at https://github.com/siddh9001/Employe
 
 ## It is capable of performing every type of CRUD operations plus also provided with refresh button and advance search functionality
 
-you might not be able to perform data related operations due to elastic beanstack through which backend is running will terminate after few days of start
+you might not be able to perform data related operations because backend is handled by elastic beanstalk, which terminates after some period of time
 
 ## checkout some images
 
