@@ -10,8 +10,8 @@ you might not be able to perform data related operations because backend is hand
 
 ## checkout some images
 
-##adding employee details
+### adding employee details
 <img width="960" alt="AddDetails" src="https://user-images.githubusercontent.com/86849427/213767177-2d3c54ae-231d-41ae-bde8-9bfffdcb92f0.png">
 
-##responsive web design
+### responsive web design
 <img width="960" alt="Responsive" src="https://user-images.githubusercontent.com/86849427/213767300-4b3039f7-0e16-4a65-8977-5a8148886208.png">
