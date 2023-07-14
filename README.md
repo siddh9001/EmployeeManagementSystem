@@ -8,6 +8,9 @@ checkout the backend code of the project at https://github.com/siddh9001/Employe
 
 you might not be able to perform data related operations because backend is handled by elastic beanstalk, which terminates after some period of time
 
+## Tech stack Used
+React.js, SpringBoot, Material UI, MySQL, AWS
+
 ## checkout some images
 
 ### adding employee details
